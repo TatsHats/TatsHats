@@ -30,7 +30,7 @@ The course "Javascript/Front-End" in the Rolling Scopes School (06.2024-06.2025)
 🌍  I'm based in Vilnius, Lithuania
 
 
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="http://www.github.com/TatsHats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TatsHats&stroke=ffffff&background=181824&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
