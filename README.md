@@ -1,4 +1,4 @@
-### Hi 👋 My name is Tatsiana Hatskaya
+Hi 👋 My name is Tatsiana Hatskaya
 ==================================
 
 ## Junior FrontEnd Developer
