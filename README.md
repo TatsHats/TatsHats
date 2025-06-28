@@ -14,8 +14,8 @@ The course "C# Developer Profession" in the itProger programming school (2023).
 
 The course "Javascript/Front-End" in the Rolling Scopes School (06.2024-06.2025)
 
-* 🌍  I'm based in Vilnius, Lithuania
-* ✉️  You can contact me at [6642017@gmail.com](mailto:6642017@gmail.com)
+🌍  I'm based in Vilnius, Lithuania
+
 
 ### Skills
 
