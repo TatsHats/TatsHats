@@ -29,7 +29,6 @@ The course "Javascript/Front-End" in the Rolling Scopes School (06.2024-06.2025)
 
 🌍  I'm based in Vilnius, Lithuania
 
-### Badges
 
 <b>My GitHub Stats</b>
 
