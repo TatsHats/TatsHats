@@ -1,8 +1,8 @@
 ### Hi 👋 My name is Tatsiana Hatskaya
-==================================
+
 
 ## Junior FrontEnd Developer
--------------------------
+
 
 I have a higher education in economics. I possess an excellent level of computer skills, am a quick learner, and have strong oral and written communication abilities. I approach any assigned tasks carefully and responsibly. I have no military obligations and am absolutely non-confrontational and pleasant to talk to.
 
