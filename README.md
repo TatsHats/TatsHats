@@ -23,7 +23,7 @@ The course "Javascript/Front-End" in the Rolling Scopes School (06.2024-06.2025)
 </p>
 
 
-![Snake animation](https://github.com/TatsHats/TatsHats/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/TatsHats/TatsHats/output/github-contribution-grid-snake.svg)
 
 
 ### Socials
