@@ -18,7 +18,7 @@ I have a higher education degree in economics. I possess excellent computer skil
 | Higher education in Belarusian State Economic University  | 2010            |
 | The course "C# Developer Profession" in the itProger programming school   | 2023            |
 | The course "Javascript/Front-End" in the Rolling Scopes School| 06.2024 - 06.2025|
-| The course "Angular" in the Rolling Scopes School| 07.2025 (in progress)|
+| The course "Angular" in the Rolling Scopes School| 07.2025 - 09.2025|
 
 ### Socials
 
